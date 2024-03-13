@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
+  username: "BuLu",
   title: "Hi all, I'm Rahomotul Islam",
   subTitle: emoji(
     "Passionate Web & Game Developer 🎮💻 adept in Unity C# and MERN stack. Crafting engaging experiences with JavaScript, React.js, Node.js, and React Native. Let's bring ideas to life together!"
